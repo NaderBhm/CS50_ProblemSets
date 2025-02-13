@@ -1,2 +1,1 @@
-Here will be my submissions the the Harvard CS50x course that I'm currently taking 
-have fun ^_^
+This repository contains my submissions for the Harvard CS50x course, which I am currently undertaking. Feel free to explore! 😊
